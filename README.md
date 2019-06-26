@@ -1,1 +1,1 @@
-# Cat-Animation
+This is an animation project in flutter. In this project a cat is placed inside the box and when we tap on the box then cat looks inside or outside of the box and accordingly different animations work.
